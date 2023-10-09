@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name is Gia Bui</h1>
+<h1 align="center">Hi! I'm Gia!</h1>
 <h3 align="center">An aspiring software engineer.</h3>
 
 <h3 align="left">Connect with me:</h3>
