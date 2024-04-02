@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Golang<br>🎯 Goal: To become the best engineer I can be.<br>🎲 Fun fact: Anteaters eat more than just ants.</p>
+<p align="left">✨ Debugging since 2023<br>📚 I'm currently learning Golang<br>🎯 Goal: To become the best engineer I can be.<br>🎲 Fun fact: Anteaters eat more than just ants.</p>
 
 ###
 
