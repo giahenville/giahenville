@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Debugging since 2023<br>🎯 Currently Learning: Three.js<br>🎲 Fun fact: Anteaters eat more than just ants.</p>
+<p align="left">✨ Debugging since 2023<br>🎯 Currently Learning: C++<br>🎲 Fun fact: Anteaters eat more than just ants.</p>
 
 ###
 
