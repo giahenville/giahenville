@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Currently Learning: C++<br>
+<p align="left">Currently Learning: Quantum Computing<br>
 
 ###
 
