@@ -1,9 +1,6 @@
 <h1 align="left">Hi, I'm Gia. Welcome!</h1>
 
 
-###
-
-<p align="left">Currently Learning: Quantum Computing<br>
 
 ###
 
